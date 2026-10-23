@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+pydantic
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+sentence-transformers
